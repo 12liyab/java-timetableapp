@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- KTU Brand Colors - Based on logo -->
+    <color name="primaryColor">#FF7D00</color>  <!-- Orange -->
+    <color name="primaryDarkColor">#C85600</color>  <!-- Dark Orange -->
+    <color name="primaryLightColor">#FFB74D</color>  <!-- Light Orange -->
+    <color name="secondaryColor">#035C91</color>  <!-- Blue -->
+    <color name="secondaryDarkColor">#023B5E</color>  <!-- Dark Blue -->
+    <color name="secondaryLightColor">#4B89B5</color>  <!-- Light Blue -->
+    
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightGray">#F5F5F5</color>
+    <color name="mediumGray">#CCCCCC</color>
+    <color name="darkGray">#757575</color>
+    
+    <!-- Timetable slot colors -->
+    <color name="lectureColor">#E8F5E9</color>
+    <color name="practicalColor">#FFF8E1</color>
+    <color name="tutorialColor">#E1F5FE</color>
+    
+    <!-- Status colors -->
+    <color name="successColor">#4CAF50</color>
+    <color name="errorColor">#F44336</color>
+    <color name="warningColor">#FFC107</color>
+    <color name="infoColor">#2196F3</color>
+</resources>

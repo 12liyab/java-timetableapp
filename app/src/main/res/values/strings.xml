@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">KTU Timetable</string>
+    
+    <!-- Login Screen -->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_error">Login failed. Please check your credentials.</string>
+    
+    <!-- Dashboard -->
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="lecturer_dashboard">Lecturer Dashboard</string>
+    <string name="student_dashboard">Student Dashboard</string>
+    
+    <!-- Navigation -->
+    <string name="view_timetable">View Timetable</string>
+    <string name="manage_courses">Manage Courses</string>
+    <string name="manage_lecturers">Manage Lecturers</string>
+    <string name="manage_classrooms">Manage Classrooms</string>
+    <string name="schedule_class">Schedule Class</string>
+    <string name="logout">Logout</string>
+    
+    <!-- Timetable View -->
+    <string name="day_view">Day View</string>
+    <string name="week_view">Week View</string>
+    <string name="filter">Filter</string>
+    <string name="department">Department</string>
+    <string name="level">Level</string>
+    <string name="lecturer">Lecturer</string>
+    <string name="classroom">Classroom</string>
+    
+    <!-- Form Fields -->
+    <string name="course_name">Course Name</string>
+    <string name="course_code">Course Code</string>
+    <string name="department_name">Department Name</string>
+    <string name="lecturer_name">Lecturer Name</string>
+    <string name="lecturer_id">Lecturer ID</string>
+    <string name="classroom_name">Classroom Name</string>
+    <string name="capacity">Capacity</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="day_of_week">Day of Week</string>
+    
+    <!-- Actions -->
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    
+    <!-- Messages -->
+    <string name="conflict_error">Time conflict detected. Please choose a different time slot.</string>
+    <string name="add_success">Successfully added.</string>
+    <string name="update_success">Successfully updated.</string>
+    <string name="delete_success">Successfully deleted.</string>
+    <string name="network_error">Network error. Using offline data.</string>
+    <string name="empty_timetable">No timetable entries found.</string>
+    <string name="sync_complete">Timetable synchronized.</string>
+    
+    <!-- Days of Week -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    
+    <!-- University Info -->
+    <string name="university_name">Koforidua Technical University</string>
+    <string name="university_motto">Innovating for Development</string>
+</resources>

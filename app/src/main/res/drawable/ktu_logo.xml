@@ -1,0 +1,61 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+  
+  <!-- Outer circle (navy blue) -->
+  <path
+      android:fillColor="#035C91"
+      android:pathData="M150,150m-140,0a140,140 0,1 1,280 0a140,140 0,1 1,-280 0"/>
+      
+  <!-- Inner circle (orange) -->
+  <path
+      android:fillColor="#FF7D00"
+      android:pathData="M150,150m-110,0a110,110 0,1 1,220 0a110,110 0,1 1,-220 0"/>
+      
+  <!-- Gear teeth (light gray) -->
+  <path
+      android:fillColor="#E0E0E0"
+      android:pathData="M150,150m-110,0a110,110 0,1 1,220 0a110,110 0,1 1,-220 0
+      M150,42L150,42L160,42L160,62L140,62L140,42L150,42Z
+      M150,258L150,258L160,258L160,278L140,278L140,258L150,258Z
+      M258,150L258,150L258,160L278,160L278,140L258,140L258,150Z
+      M42,150L42,150L42,160L62,160L62,140L42,140L42,150Z
+      M225,75L225,75L235,85L248,72L238,62L225,75Z
+      M75,225L75,225L85,235L72,248L62,238L75,225Z
+      M225,225L225,225L215,235L228,248L238,238L225,225Z
+      M75,75L75,75L85,65L72,52L62,62L75,75Z"/>
+      
+  <!-- Inner white circle -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M150,150m-80,0a80,80 0,1 1,160 0a80,80 0,1 1,-160 0"/>
+      
+  <!-- KTU logo symbol (black) -->
+  <path
+      android:fillColor="#000000"
+      android:pathData="M105,95h20v110h-20z"/>
+  <path
+      android:fillColor="#000000"
+      android:pathData="M175,95h20v110h-20z"/>
+  <path
+      android:fillColor="#000000"
+      android:pathData="M95,105h110v20h-110z"/>
+  <path
+      android:fillColor="#000000"
+      android:pathData="M95,175h110v20h-110z"/>
+  <path
+      android:fillColor="#000000"
+      android:pathData="M125,125h50v50h-50z"/>
+      
+  <!-- Blue ribbon at bottom with motto -->
+  <path
+      android:fillColor="#035C91"
+      android:pathData="M50,210L250,210A25,15 0,0 1,275 225L275,225A25,15 0,0 1,250 240L50,240A25,15 0,0 1,25 225L25,225A25,15 0,0 1,50 210z"/>
+      
+  <!-- Text shadow -->
+  <path
+      android:fillColor="#023B5E"
+      android:pathData="M150,228m-0,0a0,0 0,1 1,0 0a0,0 0,1 1,-0 0"/>
+</vector>
