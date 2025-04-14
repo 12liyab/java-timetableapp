@@ -22,7 +22,7 @@ import com.ktu.timetable.student.StudentDashboardActivity;
 import com.ktu.timetable.utils.DatabaseHelper;
 import com.ktu.timetable.utils.FirebaseUtil;
 
-public class LoginActivity extends AppCompatActivity {
+public class LoginActivity extends AppCompatActivity { // AppCompatActivity is a subclass of Activity
 
     private static final String TAG = "LoginActivity";
     
