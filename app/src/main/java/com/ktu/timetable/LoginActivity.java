@@ -24,7 +24,7 @@ import com.ktu.timetable.utils.FirebaseUtil;
 
 public class LoginActivity extends AppCompatActivity { // AppCompatActivity is a subclass of Activity
 
-    private static final String TAG = "LoginActivity";
+    private static final String TAG = "LoginActivity"; // Tag for logging
     
     private EditText emailEditText;
     private EditText passwordEditText;
