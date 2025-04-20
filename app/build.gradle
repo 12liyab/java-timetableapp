@@ -3,7 +3,7 @@ apply plugin: 'com.google.gms.google-services'
 
 android {
     compileSdkVersion 33
-    defaultConfig {  
+    defaultConfig {   
         applicationId "com.ktu.timetable" 
         minSdkVersion 21 
         targetSdkVersion 33 
