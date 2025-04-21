@@ -68,7 +68,7 @@ public class LecturerDashboardActivity extends AppCompatActivity {
         
         // Update sync status
         updateSyncStatus();
-    }
+    } 
     
     @Override
     protected void onResume() {
