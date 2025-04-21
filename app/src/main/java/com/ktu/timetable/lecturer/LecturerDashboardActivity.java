@@ -14,7 +14,7 @@ import androidx.appcompat.widget.Toolbar;
  
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
-import com.google.firebase.firestore.DocumentSnapshot;
+import com.google.firebase.firestore.DocumentSnapshot; 
 import com.ktu.timetable.LoginActivity;
 import com.ktu.timetable.R;
 import com.ktu.timetable.models.Lecturer;
