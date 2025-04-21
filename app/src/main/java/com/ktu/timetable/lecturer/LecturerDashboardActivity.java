@@ -156,7 +156,7 @@ public class LecturerDashboardActivity extends AppCompatActivity {
                 });
     }
     
-    private void updateUI() {
+    private void updateUI() { 
         if (currentUser != null) {
             welcomeTextView.setText("Welcome, " + currentUser.getDisplayName());
         }
