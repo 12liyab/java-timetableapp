@@ -53,7 +53,7 @@ public class LecturerDashboardActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         if (getSupportActionBar() != null) {
             getSupportActionBar().setTitle(R.string.lecturer_dashboard);
-        }
+        } 
         
         // Initialize UI elements
         welcomeTextView = findViewById(R.id.welcomeTextView);
