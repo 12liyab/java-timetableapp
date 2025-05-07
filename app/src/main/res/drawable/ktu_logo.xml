@@ -1,7 +1,7 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="200dp"
     android:height="200dp"
-    android:viewportWidth="300" 
+    android:viewportWidth="300"
     android:viewportHeight="300">
   
   <!-- Outer circle (navy blue) -->
