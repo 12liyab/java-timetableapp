@@ -2,7 +2,7 @@
     android:width="200dp"
     android:height="200dp"
     android:viewportWidth="300"
-    android:viewportHeight="300"> 
+    android:viewportHeight="300">
   
   <!-- Outer circle (navy blue) -->
   <path
