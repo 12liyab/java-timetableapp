@@ -1,4 +1,4 @@
-package com.ktu.timetable.lecturer; 
+package com.ktu.timetable.lecturer;
 
 import android.content.Intent; 
 import android.os.Bundle;
