@@ -2,7 +2,7 @@ package com.ktu.timetable.lecturer;
 
 import android.os.Bundle;
 import android.view.MenuItem;
-import android.view.View; 
+import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
