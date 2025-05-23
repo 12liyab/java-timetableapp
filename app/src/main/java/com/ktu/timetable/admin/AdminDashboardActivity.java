@@ -1,4 +1,4 @@
-package com.ktu.timetable.admin; 
+package com.ktu.timetable.admin;
 
 import android.content.Intent;
 import android.os.Bundle;
